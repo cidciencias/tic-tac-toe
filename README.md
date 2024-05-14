@@ -18,13 +18,11 @@ Tic Tac Toe is a two-player game where each player takes turns marking a space o
 - Easy to understand and extend codebase
 
 ## Installation
-To get started with this Tic Tac Toe game, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/cidciencias/tic-tac-toe.git
-    cd tic-tac-toe
-    ```
+To get started with this Tic Tac Toe game, simply clone the repository:
+```bash
+git clone https://github.com/cidciencias/tic-tac-toe.git
+cd tic-tac-toe
+```
 
 ## Usage
 To start the game, run the following command in your terminal:
