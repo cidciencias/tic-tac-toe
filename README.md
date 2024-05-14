@@ -26,11 +26,6 @@ To get started with this Tic Tac Toe game, follow these steps:
     cd tic-tac-toe
     ```
 
-2. Install dependencies (if any):
-    ```bash
-    [Insert installation command, e.g., pip install -r requirements.txt for Python]
-    ```
-
 ## Usage
 To start the game, run the following command in your terminal:
 
