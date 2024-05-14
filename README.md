@@ -17,7 +17,6 @@ Tic Tac Toe is a two-player game where each player takes turns marking a space o
 ## Features
 - Two-player gameplay
 - Interactive command-line interface (or GUI, if applicable)
-- Basic AI opponent (optional, if implemented)
 - Easy to understand and extend codebase
 
 ## Installation
@@ -25,7 +24,7 @@ To get started with this Tic Tac Toe game, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/tic-tac-toe.git
+    git clone https://github.com/cidciencias/tic-tac-toe.git
     cd tic-tac-toe
     ```
 
@@ -39,3 +38,9 @@ To start the game, run the following command in your terminal:
 
 ```bash
 [Insert command to run the game, e.g., python main.py for Python]
+
+## Gameplay
+- The game is played on a 3x3 grid.
+- Players take turns to place their mark (X or O) in an empty cell.
+- The first player to get three marks in a row (horizontally, vertically, or diagonally) wins.
+- If all cells are filled and no player has three marks in a row, the game ends in a draw.
