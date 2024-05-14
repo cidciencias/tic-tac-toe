@@ -14,7 +14,7 @@ Tic Tac Toe is a two-player game where each player takes turns marking a space o
 
 ## Features
 - Two-player gameplay
-- Interactive command-line interface (or GUI, if applicable)
+- Interactive GUI interface
 - Easy to understand and extend codebase
 
 ## Installation
